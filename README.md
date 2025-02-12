@@ -12,3 +12,5 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<img src="https://images.app.goo.gl/P6U6KGA67LjvSDhJ8" />
