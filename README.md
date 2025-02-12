@@ -14,7 +14,7 @@
 </picture>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonniabyte&show_icons=true&bg_color=00000000)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonniabyte&size_weight=0.5&count_weight=0.5)
 <img src="https://github.com/user-attachments/assets/e5a3a02e-2f1e-441d-b09c-6aaa35d981b2" /> 
 
 # Languages
