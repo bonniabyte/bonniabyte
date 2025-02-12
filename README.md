@@ -17,7 +17,7 @@
 
 <img src="https://github.com/user-attachments/assets/e5a3a02e-2f1e-441d-b09c-6aaa35d981b2" /> 
 
-# Langs
+# Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,rust,go,python,c,cs,lua)](https://skillicons.dev)
 
 # Database
