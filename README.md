@@ -30,4 +30,10 @@
 
 # tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,docker,neovim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,docker,neovim,Vscode)](https://skillicons.dev)
+
+# learing
+
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,Arch,dart,rust,c,cs,ts,firebase,flutter,cpp,bash,godot,prisma,react)](https://skillicons.dev)
+
+
