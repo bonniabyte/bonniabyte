@@ -34,6 +34,6 @@
 
 # learing
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,arch,blender,dart,rust,c,cs,ts,firebase,flutter,cpp,bash,godot,prisma,react,vue,angular,unity,sqlite,sql,redis,nix,java,kotlin,swift,assembly)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,arch,blender,dart,rust,c,cs,ts,firebase,flutter,cpp,bash,godot,prisma,react,vue,angular,unity,sqlite,redis,nix,java,kotlin,swift,assembly)](https://skillicons.dev)
 
 
