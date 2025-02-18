@@ -22,7 +22,7 @@
 
 # Database
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 # Operating system
 
@@ -34,6 +34,6 @@
 
 # learing
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,arch,blender,dart,rust,c,cs,ts,firebase,flutter,cpp,bash,godot,prisma,react,vue,angular,unity,sqlite,redis,nix,java,kotlin,swift,assembly)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,arch,blender,dart,rust,c,cs,ts,firebase,flutter,cpp,bash,godot,prisma,react,vue,angular,unity,sqlite,postgresql,redis,nix,java,kotlin,swift,assembly)](https://skillicons.dev)
 
 
