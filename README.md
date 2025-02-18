@@ -30,7 +30,7 @@
 
 # tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,docker,neovim,Vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,docker,neovim,vscode)](https://skillicons.dev)
 
 # learing
 
